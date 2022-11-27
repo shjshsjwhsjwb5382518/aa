@@ -9,7 +9,7 @@ def s(u,c):
 
 
 
-u = Updater("5895389339:AAFxtHGcFItvazTYkYiSDN2EARcRluWVE9U",use_context=True)
+u = Updater("5895389339:AAHKPlTe1Tp1meGvgMuQzwBIuJWB7drR7qo",use_context=True)
 
 
 
